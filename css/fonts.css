@@ -1,0 +1,14 @@
+@font-face{
+	font-family:home;
+	src: url("../fonts/serveroff.otf");
+}
+
+@font-face{
+	font-family:headings;
+	src: url("../fonts/titillium.otf");
+}
+
+@font-face{
+	font-family:content;
+	src: url("../fonts/roboto.ttf");
+}
